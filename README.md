@@ -46,8 +46,8 @@ LeetCode-Java-Solutions/
 
 ## 📈 Progress
 
-- ✅ Problems Solved: **3**
-- 🎯 Target: **200+ Problems**
+- ✅ Problems Solved: **4**
+- 🎯 Target: **100+ Problems**
 - ☕ Language: **Java**
 
 ---
