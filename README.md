@@ -41,7 +41,7 @@ LeetCode-Java-Solutions/
 | 1 | Two Sum | Easy | Arrays |
 | 2 | Add Two Numbers | Medium | Linked List |
 | 3 | Longest Substring Without Repeating Characters | Medium | Strings / Sliding Window |
-
+| 4 | Median of Two Sorted Arrays|Hard| Arrays |
 ---
 
 ## 📈 Progress
