@@ -42,7 +42,7 @@ LeetCode-Java-Solutions/
 | 2 | Add Two Numbers | Medium | Linked List |
 | 3 | Longest Substring Without Repeating Characters | Medium | Strings / Sliding Window |
 | 4 | Median of Two Sorted Arrays|Hard| Arrays |
-| 5 | Longest Palindrome Substring | Strings |
+| 5 | Longest Palindrome Substring | Medium | Medium |
 ---
 
 ## 📈 Progress
