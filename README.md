@@ -42,12 +42,13 @@ LeetCode-Java-Solutions/
 | 2 | Add Two Numbers | Medium | Linked List |
 | 3 | Longest Substring Without Repeating Characters | Medium | Strings / Sliding Window |
 | 4 | Median of Two Sorted Arrays|Hard| Arrays |
-| 5 | Longest Palindrome Substring | Medium | Medium |
+| 5 | Longest Palindrome Substring | Medium | String ||
+| 6 | ZigZag Conversion |Medium | Array |
 ---
 
 ## 📈 Progress
 
-- ✅ Problems Solved: **5**
+- ✅ Problems Solved: **6**
 - 🎯 Target: **100+ Problems**
 - ☕ Language: **Java**
 
